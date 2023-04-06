@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -28,13 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
+![](./screenshot1.png)
 
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [qrcode](https://github.com/jflowwwer/qr-code)
+- Live Site URL: [qrcode](https://jflowwwer.github.io/qr-code/)
 
 ## My process
 
